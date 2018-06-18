@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{BB1C9A20-3C3F-48B7-B22D-82DC298616B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TbleView/ViewController.cs">
+    <Files>
+      <File FileName="TbleView/Main.storyboard" />
+      <File FileName="TbleView/ViewController.cs" Line="20" Column="61" />
+      <File FileName="TbleView/TableSource.cs" Line="33" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TbleView PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3FF0FA9F-427C-473D-8E05-1C4173EF1A31">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TbleView>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Projects/Stadium/src/Droid/Views/Feedback/FeedbackWindow.cs" line="48" offsetX="537" offsetY="846" expression="parent" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
